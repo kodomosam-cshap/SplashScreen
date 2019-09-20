@@ -1,0 +1,10 @@
+C:\Users\kodom\source\repos\SplashScreen\bin\Debug\SplashScreen.exe.config
+C:\Users\kodom\source\repos\SplashScreen\bin\Debug\SplashScreen.exe
+C:\Users\kodom\source\repos\SplashScreen\bin\Debug\SplashScreen.pdb
+C:\Users\kodom\source\repos\SplashScreen\obj\Debug\SplashScreen.csprojAssemblyReference.cache
+C:\Users\kodom\source\repos\SplashScreen\obj\Debug\SplashScreen.Form1.resources
+C:\Users\kodom\source\repos\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+C:\Users\kodom\source\repos\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.cache
+C:\Users\kodom\source\repos\SplashScreen\obj\Debug\SplashScreen.csproj.CoreCompileInputs.cache
+C:\Users\kodom\source\repos\SplashScreen\obj\Debug\SplashScreen.exe
+C:\Users\kodom\source\repos\SplashScreen\obj\Debug\SplashScreen.pdb
